@@ -2,7 +2,7 @@
 
 <!-- Título e Imagem de capa -->
 <p align="center">
-  <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/1f93e2b5-b2fd-4a2b-a8d8-68e5cfbbd318" />
+  <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/0757de65-0c22-4e5c-9e91-8a9dd3c3b933" />
 </p>
 
 <!-- Badges -->
